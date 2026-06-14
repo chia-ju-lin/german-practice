@@ -28,9 +28,10 @@ Open **http://localhost:8000** in Chrome/Edge. Allow microphone access.
 
 ## Topics
 
-| Topic | Data File | Sentences |
-|-------|-----------|-----------|
-| Verben mit SEIN | `data/verben-mit-sein.json` | 176 |
+| Topic | Data File | Sentences | Blanks |
+|-------|-----------|-----------|------|
+| Verben mit SEIN | `data/verben-mit-sein.json` | 176 | 1 |
+| Unregelmäßige Verben | `data/irregular-verbs.json` | 28 | 2 |
 
 ---
 
