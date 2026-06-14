@@ -1,0 +1,164 @@
+/* German Practice App – Shared Styles */
+
+:root {
+    --bg: #f8f9fa;
+    --card: #ffffff;
+    --text: #212529;
+    --primary: #0d6efd;
+    --success: #198754;
+    --danger: #dc3545;
+    --border: #dee2e6;
+    --muted: #6c757d;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container { max-width: 600px; width: 100%; }
+h1 { text-align: center; margin-bottom: 10px; }
+
+/* Topic selector */
+.topic-bar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.topic-bar label {
+    font-weight: bold;
+    white-space: nowrap;
+}
+.topic-bar select {
+    flex: 1;
+    padding: 10px;
+    font-size: 1em;
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    background: var(--card);
+    cursor: pointer;
+}
+
+/* Stats */
+.stats { display: flex; justify-content: space-between; margin-bottom: 20px; font-weight: bold; }
+
+/* Card */
+.card {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.verb-label {
+    font-size: 0.9em;
+    color: var(--primary);
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.prompt {
+    font-size: 1.4em;
+    line-height: 1.5;
+    margin-bottom: 12px;
+    white-space: pre-wrap;
+}
+
+.translation {
+    font-size: 0.95em;
+    color: var(--muted);
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+/* Actions */
+.actions { display: flex; gap: 10px; margin-bottom: 16px; }
+
+button {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s;
+}
+
+.btn-read { background: var(--primary); color: white; }
+.btn-read:hover { background: #0b5ed7; }
+
+.btn-speak { background: var(--success); color: white; }
+.btn-speak:hover { background: #157347; }
+.btn-speak:disabled { background: #adb5bd; cursor: not-allowed; }
+
+.btn-check { background: var(--primary); color: white; margin-top: 10px; width: 100%; }
+.btn-check:hover { background: #0b5ed7; }
+
+/* Input */
+.input-group { margin-bottom: 16px; }
+
+.input-group input {
+    width: 100%;
+    padding: 12px;
+    font-size: 1.1em;
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    box-sizing: border-box;
+    outline: none;
+    transition: border-color 0.2s;
+}
+.input-group input:focus { border-color: var(--primary); }
+
+/* Navigation */
+.nav { display: flex; gap: 10px; }
+.nav button { flex: 1; background: var(--border); color: var(--text); }
+.nav button:hover { background: #ced4da; }
+
+/* Result */
+.result-box {
+    margin-top: 16px;
+    padding: 12px;
+    border-radius: 8px;
+    background: #f8f9fa;
+    border-left: 4px solid var(--border);
+    display: none;
+}
+.result-box.show { display: block; }
+.result-box.correct { border-left-color: var(--success); background: #d1e7dd; }
+.result-box.incorrect { border-left-color: var(--danger); background: #f8d7da; }
+
+.your-answer { font-weight: bold; margin-bottom: 4px; }
+.correct-answer { color: var(--success); font-weight: bold; }
+
+/* Status & warnings */
+.status { text-align: center; font-size: 0.85em; color: var(--muted); margin-top: 8px; }
+
+.warning {
+    background: #fff3cd;
+    color: #856404;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.85em;
+    margin-bottom: 16px;
+    display: none;
+}
+.warning.show { display: block; }
+
+/* Animations */
+.listening { animation: pulse 1.5s infinite; }
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}

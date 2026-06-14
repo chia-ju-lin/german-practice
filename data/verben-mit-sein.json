@@ -1,0 +1,1234 @@
+[
+  {
+    "verb": "abbiegen",
+    "prompt": "abbiegen – ist abgebogen\n\nAm Hauptbahnhof ______ der Bus nach rechts.",
+    "translation": "The bus turned right at the main station.",
+    "answer": "ist abgebogen",
+    "full_sentence": "Am Hauptbahnhof ist der Bus nach rechts abgebogen."
+  },
+  {
+    "verb": "abbiegen",
+    "prompt": "Wir ______ an der nächsten Kreuzung nach links.",
+    "translation": "We turned left at the next intersection.",
+    "answer": "sind abgebogen",
+    "full_sentence": "Wir sind an der nächsten Kreuzung nach links abgebogen."
+  },
+  {
+    "verb": "abbiegen",
+    "prompt": "Der Lieferwagen ______ vor der Tankstelle.",
+    "translation": "The delivery truck turned in front of the gas station.",
+    "answer": "ist abgebogen",
+    "full_sentence": "Der Lieferwagen ist vor der Tankstelle abgebogen."
+  },
+  {
+    "verb": "abfahren",
+    "prompt": "abfahren – ist abgefahren\n\nUm 8 Uhr ______ der Zug nach München.",
+    "translation": "The train to Munich departed at 8.",
+    "answer": "ist abgefahren",
+    "full_sentence": "Um 8 Uhr ist der Zug nach München abgefahren."
+  },
+  {
+    "verb": "abfahren",
+    "prompt": "Wann ______ der nächste Bus ______ ?",
+    "translation": "When did the next bus leave?",
+    "answer": "ist | abgefahren",
+    "full_sentence": "Wann ist der nächste Bus abgefahren?"
+  },
+  {
+    "verb": "abfliegen",
+    "prompt": "abfliegen – ist abgebogen\n\nMein Flug ______ gestern um 6 Uhr morgens ______ .",
+    "translation": "My flight departed yesterday at 6am.",
+    "answer": "ist | abflog",
+    "full_sentence": "Mein Flug ist gestern um 6 Uhr morgens abgflgen."
+  },
+  {
+    "verb": "abfliegen",
+    "prompt": "Die Maschine ______ pünktlich zum Flughafen Istanbul ______ .",
+    "translation": "The plane departed on time to Istanbul airport.",
+    "answer": "ist | abgeflogen",
+    "full_sentence": "Die Maschine ist pünktlich zum Flughafen Istanbul abgeflogen."
+  },
+  {
+    "verb": "abfliegen",
+    "prompt": "Leider ______ mein Flieger wegen des Wetters zwei Stunden später ______ .",
+    "translation": "Unfortunately my flight departed two hours later because of the weather.",
+    "answer": "ist | abgeflogen",
+    "full_sentence": "Leider ist mein Flieger wegen des Wetters zwei Stunden später abgeflogen."
+  },
+  {
+    "verb": "ankommen",
+    "prompt": "ankommen – ist angekommen\n\nDie Post ______ endlich nach drei Tagen ______ .",
+    "translation": "The mail finally arrived after three days.",
+    "answer": "ist | angekommen",
+    "full_sentence": "Die Post ist endlich nach drei Tagen angekommen."
+  },
+  {
+    "verb": "ankommen",
+    "prompt": "Wann ______ du am Flughafen ______ ?",
+    "translation": "When did you arrive at the airport?",
+    "answer": "bist | angekommen",
+    "full_sentence": "Wann bist du am Flughafen angekommen?"
+  },
+  {
+    "verb": "ankommen",
+    "prompt": "Das Paket ______ gestern Nachmittag ______ .",
+    "translation": "The package arrived yesterday afternoon.",
+    "answer": "ist | angekommen",
+    "full_sentence": "Das Paket ist gestern Nachmittag angekommen."
+  },
+  {
+    "verb": "aufstehen",
+    "prompt": "aufstehen – ist aufgestanden\n\nHeute Morgen ______ ich um 6:30 ______ .",
+    "translation": "I got up at 6:30 this morning.",
+    "answer": "bin | aufgestanden",
+    "full_sentence": "Heute Morgen bin ich um 6:30 aufgestanden."
+  },
+  {
+    "verb": "aufstehen",
+    "prompt": "Mein Bruder ______ erst um 10 Uhr ______ – er hatte frei.",
+    "translation": "My brother didn't get up until 10 – he had the day off.",
+    "answer": "ist | aufgestanden",
+    "full_sentence": "Mein Bruder ist erst um 10 Uhr aufgestanden – er hatte frei."
+  },
+  {
+    "verb": "aufwachen",
+    "prompt": "aufwachen – ist aufgewacht\n\nIch ______ mitten in der Nacht von einem lauten Geräusch ______ .",
+    "translation": "I woke up in the middle of the night from a loud noise.",
+    "answer": "bin | aufgewacht",
+    "full_sentence": "Ich bin mitten in der Nacht von einem lauten Geräusch aufgewacht."
+  },
+  {
+    "verb": "aufwachen",
+    "prompt": "Gestern ______ ich zu spät ______ .",
+    "translation": "Yesterday I woke up too late.",
+    "answer": "bin | aufgewacht",
+    "full_sentence": "Gestern bin ich zu spät aufgewacht."
+  },
+  {
+    "verb": "aussteigen",
+    "prompt": "aussteigen – ist ausgestiegen\n\nIch ______ in der nächsten Station ______ .",
+    "translation": "I got off at the next station.",
+    "answer": "bin | ausgestiegen",
+    "full_sentence": "Ich bin in der nächsten Station ausgestiegen."
+  },
+  {
+    "verb": "aussteigen",
+    "prompt": "Viele Leute sind am Hauptbahnhof ______ .",
+    "translation": "Many people got off at the main station.",
+    "answer": "ausgestiegen",
+    "full_sentence": "Viele Leute sind am Hauptbahnhof ausgestiegen."
+  },
+  {
+    "verb": "aussteigen",
+    "prompt": "Gestern ______ er fälschlicherweise am Alexanderplatz ______ .",
+    "translation": "Yesterday he accidentally got off at Alexanderplatz.",
+    "answer": "ist | ausgestiegen",
+    "full_sentence": "Gestern ist er fälschlicherweise am Alexanderplatz ausgestiegen."
+  },
+  {
+    "verb": "ausziehen",
+    "prompt": "ausziehen – ist ausgezogen\n\nMeine Freundin ______ letztes Jahr nach Hamburg ______ .",
+    "translation": "My girlfriend moved out to Hamburg last year.",
+    "answer": "ist | ausgezogen",
+    "full_sentence": "Meine Freundin ist letztes Jahr nach Hamburg ausgezogen."
+  },
+  {
+    "verb": "ausziehen",
+    "prompt": "Er ______ aus dem elterlichen Haus mit 18 ______ .",
+    "translation": "He moved out of his parents' house at 18.",
+    "answer": "ist | ausgezogen",
+    "full_sentence": "Er ist aus dem elterlichen Haus mit 18 ausgezogen."
+  },
+  {
+    "verb": "ausziehen",
+    "prompt": "Wann ______ du aus der gemeinsamen Wohnung ______ ?",
+    "translation": "When did you move out of the shared apartment?",
+    "answer": "bist | ausgezogen",
+    "full_sentence": "Wann bist du aus der gemeinsamen Wohnung ausgezogen?"
+  },
+  {
+    "verb": "begegnen (+ DAT)",
+    "prompt": "begegnen (+ DAT) – ist begegnet\n\nGestern bin ich auf der Straße einem alten Freund ______ .",
+    "translation": "Yesterday I ran into an old friend on the street.",
+    "answer": "begegnet",
+    "full_sentence": "Gestern bin ich auf der Straße einem alten Freund begegnet."
+  },
+  {
+    "verb": "begegnen (+ DAT)",
+    "prompt": "Wir ______ unserem Professor in der U-Bahn ______ .",
+    "translation": "We ran into our professor on the subway.",
+    "answer": "sind | begegnet",
+    "full_sentence": "Wir sind unserem Professor in der U-Bahn begegnet."
+  },
+  {
+    "verb": "bleiben",
+    "prompt": "bleiben – ist geblieben\n\nWarum ______ du gestern zu Hause ______ ?",
+    "translation": "Why did you stay at home yesterday?",
+    "answer": "bist | geblieben",
+    "full_sentence": "Warum bist du gestern zu Hause geblieben?"
+  },
+  {
+    "verb": "bleiben",
+    "prompt": "Wir ______ die ganze Nacht bei einer Freundin ______ .",
+    "translation": "We stayed at a friend's place all night.",
+    "answer": "sind | geblieben",
+    "full_sentence": "Wir sind die ganze Nacht bei einer Freundin geblieben."
+  },
+  {
+    "verb": "bleiben",
+    "prompt": "Der Preis ______ unverändert ______ .",
+    "translation": "The price remained unchanged.",
+    "answer": "ist | geblieben",
+    "full_sentence": "Der Preis ist unverändert geblieben."
+  },
+  {
+    "verb": "einsteigen",
+    "prompt": "einsteigen – ist eingestiegen\n\nIch bin an der Haltestelle „Schillerstraße“ in den Bus ______ .",
+    "translation": "I got on the bus at Schillerstraße stop.",
+    "answer": "eingestiegen",
+    "full_sentence": "Ich bin an der Haltestelle „Schillerstraße“ in den Bus eingestiegen."
+  },
+  {
+    "verb": "einsteigen",
+    "prompt": "Sie ______ schnell in das Taxi ______ .",
+    "translation": "She quickly got into the taxi.",
+    "answer": "ist | eingestiegen",
+    "full_sentence": "Sie ist schnell in das Taxi eingestiegen."
+  },
+  {
+    "verb": "einsteigen",
+    "prompt": "Wo ______ du in den Zug ______ ?",
+    "translation": "Where did you get on the train?",
+    "answer": "bist | eingestiegen",
+    "full_sentence": "Wo bist du in den Zug eingestiegen?"
+  },
+  {
+    "verb": "fahren",
+    "prompt": "fahren – ist gefahren\n\nLetzte Woche ______ wir nach Österreich ______ .",
+    "translation": "Last week we drove to Austria.",
+    "answer": "sind | gefahren",
+    "full_sentence": "Letzte Woche sind wir nach Österreich gefahren."
+  },
+  {
+    "verb": "fahren",
+    "prompt": "Mit dem Auto ______ sie auf die Arbeit ______ .",
+    "translation": "She drove to work by car.",
+    "answer": "ist | gefahren",
+    "full_sentence": "Mit dem Auto ist sie auf die Arbeit gefahren."
+  },
+  {
+    "verb": "fahren",
+    "prompt": "Wohin ______ du im Urlaub ______ ?",
+    "translation": "Where did you go on vacation?",
+    "answer": "bist | gefahren",
+    "full_sentence": "Wohin bist du im Urlaub gefahren?"
+  },
+  {
+    "verb": "fallen",
+    "prompt": "fallen – ist gefallen\n\nMein Handy ______ aus meiner Tasche auf den Boden ______ .",
+    "translation": "My phone fell out of my pocket onto the floor.",
+    "answer": "ist | gefallen",
+    "full_sentence": "Mein Handy ist aus meiner Tasche auf den Boden gefallen."
+  },
+  {
+    "verb": "fallen",
+    "prompt": "Es hat geschneit, und ich bin auf dem Eis ______ .",
+    "translation": "It snowed and I slipped on the ice.",
+    "answer": "gefallen",
+    "full_sentence": "Es hat geschneit, und ich bin auf dem Eis gefallen."
+  },
+  {
+    "verb": "fallen",
+    "prompt": "Die Äpfel ______ vom Baum ______ .",
+    "translation": "The apples fell from the tree.",
+    "answer": "sind | gefallen",
+    "full_sentence": "Die Äpfel sind vom Baum gefallen."
+  },
+  {
+    "verb": "fliegen",
+    "prompt": "fliegen – ist geflogen\n\nIm Sommer ______ wir nach Spanien ______ .",
+    "translation": "In the summer we flew to Spain.",
+    "answer": "sind | geflegen",
+    "full_sentence": "Im Sommer sind wir nach Spanien geflogen."
+  },
+  {
+    "verb": "fliegen",
+    "prompt": "Mein Vater ______ jeden Monat zur Arbeit nach Berlin ______ .",
+    "translation": "My father flew to Berlin for work every month.",
+    "answer": "ist | geflogen",
+    "full_sentence": "Mein Vater ist jeden Monat zur Arbeit nach Berlin geflogen."
+  },
+  {
+    "verb": "folgen (+ DAT)",
+    "prompt": "folgen (+ DAT) – ist gefolgt\n\nIch ______ dir ______ – sag einfach, wo es langging.",
+    "translation": "I followed you – just tell me where it went.",
+    "answer": "bin | gefolgt",
+    "full_sentence": "Ich bin dir gefolgt – sag einfach, wo es langging."
+  },
+  {
+    "verb": "folgen (+ DAT)",
+    "prompt": "Die Kinder ______ dem Hund in den Park ______ .",
+    "translation": "The children followed the dog into the park.",
+    "answer": "sind | gefolgt",
+    "full_sentence": "Die Kinder sind dem Hund in den Park gefolgt."
+  },
+  {
+    "verb": "folgen (+ DAT)",
+    "prompt": "Auf die Prüfung ______ die Ferien ______ .",
+    "translation": "After the exam came the holidays.",
+    "answer": "sind | gefolgt",
+    "full_sentence": "Auf die Prüfung sind die Ferien gefolgt."
+  },
+  {
+    "verb": "gehen",
+    "prompt": "gehen – ist gegangen\n\nGestern ______ ich mit meinen Freunden ins Kino ______ .",
+    "translation": "Yesterday I went to the cinema with my friends.",
+    "answer": "bin | gegangen",
+    "full_sentence": "Gestern bin ich mit meinen Freunden ins Kino gegangen."
+  },
+  {
+    "verb": "gehen",
+    "prompt": "Wir ______ zu Fuß nach Hause ______ .",
+    "translation": "We walked home.",
+    "answer": "sind | gegangen",
+    "full_sentence": "Wir sind zu Fuß nach Hause gegangen."
+  },
+  {
+    "verb": "gehen",
+    "prompt": "Wohin ______ du heute Abend ______ ?",
+    "translation": "Where did you go tonight?",
+    "answer": "bist | gegangen",
+    "full_sentence": "Wohin bist du heute Abend gegangen?"
+  },
+  {
+    "verb": "kommen",
+    "prompt": "kommen – ist gekommen\n\nMeine Eltern ______ gestern zu Besuch ______ .",
+    "translation": "My parents came to visit yesterday.",
+    "answer": "sind | gekommen",
+    "full_sentence": "Meine Eltern gestern zu Besuch gekommen."
+  },
+  {
+    "verb": "kommen",
+    "prompt": "______ du zur Party ______ ?",
+    "translation": "Did you come to the party?",
+    "answer": "Bist | gekommen",
+    "full_sentence": "Bist du zur Party gekommen?"
+  },
+  {
+    "verb": "kommen",
+    "prompt": "Der Postbote ______ um 10 Uhr ______ .",
+    "translation": "The mailman came at 10.",
+    "answer": "ist | gekommen",
+    "full_sentence": "Der Postbote ist um 10 Uhr gekommen."
+  },
+  {
+    "verb": "landen",
+    "prompt": "landen – ist gelandet\n\nDas Flugzeug ______ um 14 Uhr in Frankfurt ______ .",
+    "translation": "The plane landed in Frankfurt at 2pm.",
+    "answer": "ist | gelandet",
+    "full_sentence": "Das Flugzeug ist um 14 Uhr in Frankfurt gelandet."
+  },
+  {
+    "verb": "landen",
+    "prompt": "Wir ______ mit einer Verspätung von zwei Stunden ______ .",
+    "translation": "We landed with a two-hour delay.",
+    "answer": "sind | gelandet",
+    "full_sentence": "Wir sind mit einer Verspätung von zwei Stunden gelandet."
+  },
+  {
+    "verb": "landen",
+    "prompt": "Der Vogel ______ auf meinem Balkon ______ .",
+    "translation": "The bird landed on my balcony.",
+    "answer": "ist | gelandet",
+    "full_sentence": "Der Vogel ist auf meinem Balkon gelandet."
+  },
+  {
+    "verb": "laufen",
+    "prompt": "laufen – ist gelaufen\n\nWeil ich zu spät war, ______ ich zur Arbeit ______ .",
+    "translation": "Because I was late, I ran to work.",
+    "answer": "bin | gelaufen",
+    "full_sentence": "Weil ich zu spät war, bin ich zur Arbeit gelaufen."
+  },
+  {
+    "verb": "laufen",
+    "prompt": "Der Hund ______ der Katze ______ .",
+    "translation": "The dog ran after the cat.",
+    "answer": "ist | nachgelaufen",
+    "full_sentence": "Der Hund ist der Katze nachgelaufen."
+  },
+  {
+    "verb": "laufen",
+    "prompt": "Wie weit ______ du heute ______ ?",
+    "translation": "How far did you walk/run today?",
+    "answer": "bist | gelaufen",
+    "full_sentence": "Wie weit bist du heute gelaufen?"
+  },
+  {
+    "verb": "mitkommen",
+    "prompt": "mitkommen – ist mitgekommen\n\n______ du mit ins Restaurant ______ ?",
+    "translation": "Did you come along to the restaurant?",
+    "answer": "Bist | mitgekommen",
+    "full_sentence": "Bist du mit ins Restaurant mitgekommen?"
+  },
+  {
+    "verb": "mitkommen",
+    "prompt": "Meine Schwester ______ zum Ausflug nicht ______ .",
+    "translation": "My sister didn't come along on the trip.",
+    "answer": "ist | mitgekommen",
+    "full_sentence": "Meine Schwester ist zum Ausflug nicht mitgekommen."
+  },
+  {
+    "verb": "mitkommen",
+    "prompt": "Drei Kollegen ______ auf die Firmenfeier ______ .",
+    "translation": "Three colleagues came along to the company party.",
+    "answer": "sind | mitgekommen",
+    "full_sentence": "Drei Kollegen sind auf die Firmenfeier mitgekommen."
+  },
+  {
+    "verb": "reisen",
+    "prompt": "reisen – ist gereist\n\nLetztes Jahr ______ wir nach Japan ______ .",
+    "translation": "Last year we traveled to Japan.",
+    "answer": "sind | gereist",
+    "full_sentence": "Letztes Jahr sind wir nach Japan gereist."
+  },
+  {
+    "verb": "reisen",
+    "prompt": "Sie ______ gern allein ______ .",
+    "translation": "She liked to travel alone.",
+    "answer": "ist | gereist",
+    "full_sentence": "Sie ist gern allein gereist."
+  },
+  {
+    "verb": "reisen",
+    "prompt": "Mit wem ______ du auf die Kreuzfahrt ______ ?",
+    "translation": "Who did you travel with on the cruise?",
+    "answer": "bist | gereist",
+    "full_sentence": "Mit wem bist du auf die Kreuzfahrt gereist?"
+  },
+  {
+    "verb": "reiten",
+    "prompt": "reiten – ist geritten\n\nMeine Tochter ______ jeden Samstag im Reitstall ______ .",
+    "translation": "My daughter rode at the stable every Saturday.",
+    "answer": "ist | geritten",
+    "full_sentence": "Meine Tochter ist jeden Samstag im Reitstall geritten."
+  },
+  {
+    "verb": "reiten",
+    "prompt": "Gestern ______ wir eine Stunde durch den Wald ______ .",
+    "translation": "Yesterday we rode through the forest for an hour.",
+    "answer": "sind | geritten",
+    "full_sentence": "Gestern sind wir eine Stunde durch den Wald geritten."
+  },
+  {
+    "verb": "schwimmen",
+    "prompt": "schwimmen – ist geschwommen\n\nIm Sommer ______ wir jeden Tag im See ______ .",
+    "translation": "In the summer we swam in the lake every day.",
+    "answer": "sind | geschwommen",
+    "full_sentence": "Im Sommer sind wir jeden Tag im See geschwommen."
+  },
+  {
+    "verb": "schwimmen",
+    "prompt": "Er ______ drei Kilometer ohne Pause ______ .",
+    "translation": "He swam three kilometers without a break.",
+    "answer": "ist | geschwommen",
+    "full_sentence": "Er ist drei Kilometer ohne Pause geschwommen."
+  },
+  {
+    "verb": "sein",
+    "prompt": "sein – ist gewesen\n\nGestern ______ ich im Krankenhaus ______ .",
+    "translation": "Yesterday I was at the hospital.",
+    "answer": "bin | gewesen",
+    "full_sentence": "Gestern bin ich im Krankenhaus gewesen."
+  },
+  {
+    "verb": "sein",
+    "prompt": "Wir ______ letzte Woche in Berlin ______ .",
+    "translation": "We were in Berlin last week.",
+    "answer": "sind | gewesen",
+    "full_sentence": "Wir sind letzte Woche in Berlin gewesen."
+  },
+  {
+    "verb": "sein",
+    "prompt": "Wo ______ du am Wochenende ______ ?",
+    "translation": "Where were you on the weekend?",
+    "answer": "bist | gewesen",
+    "full_sentence": "Wo bist du am Wochenende gewesen?"
+  },
+  {
+    "verb": "springen",
+    "prompt": "springen – ist gesprungen\n\nDie Katze ______ auf den Tisch ______ .",
+    "translation": "The cat jumped onto the table.",
+    "answer": "ist | gesprungen",
+    "full_sentence": "Die Katze ist auf den Tisch gesprungen."
+  },
+  {
+    "verb": "springen",
+    "prompt": "Mein Sohn ______ gern auf dem Trampolin ______ .",
+    "translation": "My son jumped gladly on the trampoline.",
+    "answer": "ist | gesprungen",
+    "full_sentence": "Mein Sohn ist gern auf dem Trampolin gesprungen."
+  },
+  {
+    "verb": "springen",
+    "prompt": "Wir ______ über die Pfützen ______ .",
+    "translation": "We jumped over the puddles.",
+    "answer": "sind | gesprungen",
+    "full_sentence": "Wir sind über die Pfützen gesprungen."
+  },
+  {
+    "verb": "umziehen",
+    "prompt": "umziehen – ist umgezogen\n\nMeine Nachbarn ______ in ein größeres Haus ______ .",
+    "translation": "My neighbors moved to a bigger house.",
+    "answer": "sind | umgezogen",
+    "full_sentence": "Meine Nachbarn sind in ein größeres Haus umgezogen."
+  },
+  {
+    "verb": "umziehen",
+    "prompt": "Wann ______ du nach München ______ ?",
+    "translation": "When did you move to Munich?",
+    "answer": "bist | umgezogen",
+    "full_sentence": "Wann bist du nach München umgezogen?"
+  },
+  {
+    "verb": "umziehen",
+    "prompt": "Sie ______ schon dreimal in dieser Stadt ______ .",
+    "translation": "She has already moved three times in this city.",
+    "answer": "ist | umgezogen",
+    "full_sentence": "Sie ist schon dreimal in dieser Stadt umgezogen."
+  },
+  {
+    "verb": "werden",
+    "prompt": "werden – ist geworden\n\nAus dem Kind ist ein junger Mann ______ .",
+    "translation": "The child has become a young man.",
+    "answer": "geworden",
+    "full_sentence": "Aus dem Kind ist ein junger Mann geworden."
+  },
+  {
+    "verb": "werden",
+    "prompt": "Es ______ immer kälter ______ .",
+    "translation": "It became colder and colder.",
+    "answer": "ist | geworden",
+    "full_sentence": "Es ist immer kälter geworden."
+  },
+  {
+    "verb": "ziehen",
+    "prompt": "ziehen – ist gezogen\n\nNach der Kündigung ______ sie zurück zu ihren Eltern ______ .",
+    "translation": "After being fired, she moved back to her parents.",
+    "answer": "ist | gezogen",
+    "full_sentence": "Nach der Kündigung ist sie zurück zu ihren Eltern gezogen."
+  },
+  {
+    "verb": "ziehen",
+    "prompt": "Viele Menschen ______ aus der Stadt aufs Land ______ .",
+    "translation": "Many people moved from the city to the countryside.",
+    "answer": "sind | gezogen",
+    "full_sentence": "Viele Menschen sind aus der Stadt aufs Land gezogen."
+  },
+  {
+    "verb": "ausgehen",
+    "prompt": "ausgehen – ist ausgegangen\n\nWir ______ heute Abend ins Theater ______ .",
+    "translation": "We went out to the theater tonight.",
+    "answer": "sind | ausgegangen",
+    "full_sentence": "Wir sind heute Abend ins Theater ausgegangen."
+  },
+  {
+    "verb": "ausgehen",
+    "prompt": "Das Brot ist ______ – wir müssen einkaufen.",
+    "translation": "The bread ran out – we need to shop.",
+    "answer": "ausgegangen",
+    "full_sentence": "Das Brot ist ausgegangen – wir müssen einkaufen."
+  },
+  {
+    "verb": "ausgehen",
+    "prompt": "Die Lichter sind plötzlich ______ .",
+    "translation": "The lights suddenly went out.",
+    "answer": "ausgegangen",
+    "full_sentence": "Die Lichter sind plötzlich ausgegangen."
+  },
+  {
+    "verb": "einkaufen gehen",
+    "prompt": "einkaufen gehen – ist einkaufen gegangen\n\nGestern ______ ich zum Supermarkt ______ .",
+    "translation": "Yesterday I went to the supermarket shopping.",
+    "answer": "bin | einkaufen gegangen",
+    "full_sentence": "Gestern bin ich zum Supermarkt einkaufen gegangen."
+  },
+  {
+    "verb": "einkaufen gehen",
+    "prompt": "Meine Mutter ______ jeden Samstag ______ .",
+    "translation": "My mother went shopping every Saturday.",
+    "answer": "ist | einkaufen gegangen",
+    "full_sentence": "Meine Mutter ist jeden Samstag einkaufen gegangen."
+  },
+  {
+    "verb": "joggen",
+    "prompt": "joggen – ist gejoggt\n\nAm Morgen ______ ich zwei Kilometer ______ .",
+    "translation": "In the morning I jogged two kilometers.",
+    "answer": "bin | gejoggt",
+    "full_sentence": "Am Morgen bin ich zwei Kilometer gejoggt."
+  },
+  {
+    "verb": "joggen",
+    "prompt": "______ du regelmäßig ______ ?",
+    "translation": "Did you jog regularly?",
+    "answer": "Bist | gejoggt",
+    "full_sentence": "Bist du regelmäßig gejoggt?"
+  },
+  {
+    "verb": "joggen",
+    "prompt": "Gestern ______ wir im Park ______ .",
+    "translation": "Yesterday we jogged in the park.",
+    "answer": "sind | gejoggt",
+    "full_sentence": "Gestern sind wir im Park gejoggt."
+  },
+  {
+    "verb": "passieren",
+    "prompt": "passieren – ist passiert\n\nWas ______ heute Morgen ______ ?",
+    "translation": "What happened this morning?",
+    "answer": "ist | passiert",
+    "full_sentence": "Was ist heute Morgen passiert?"
+  },
+  {
+    "verb": "passieren",
+    "prompt": "Ein Unfall ist an der Ecke ______ .",
+    "translation": "An accident happened at the corner.",
+    "answer": "passiert",
+    "full_sentence": "Ein Unfall ist an der Ecke passiert."
+  },
+  {
+    "verb": "passieren",
+    "prompt": "Leider ist nichts ______ .",
+    "translation": "Unfortunately nothing happened.",
+    "answer": "passiert",
+    "full_sentence": "Leider ist nichts passiert."
+  },
+  {
+    "verb": "rennen",
+    "prompt": "rennen – ist gerannt\n\nIch ______ zum Bahnhof ______ , weil ich zu spät war.",
+    "translation": "I ran to the station because I was late.",
+    "answer": "bin | gerannt",
+    "full_sentence": "Ich bin zum Bahnhof gerannt, weil ich zu spät war."
+  },
+  {
+    "verb": "spazieren gehen",
+    "prompt": "spazieren gehen – ist spazieren gegangen\n\nNach dem Essen ______ wir eine halbe Stunde ______ .",
+    "translation": "After eating we went for a 30-minute walk.",
+    "answer": "sind | spazieren gegangen",
+    "full_sentence": "Nach dem Essen sind wir eine halbe Stunde spazieren gegangen."
+  },
+  {
+    "verb": "spazieren gehen",
+    "prompt": "______ du am Abend gern ______ ?",
+    "translation": "Did you like going for walks in the evening?",
+    "answer": "Bist | spazieren gegangen",
+    "full_sentence": "Bist du am Abend gern spazieren gegangen?"
+  },
+  {
+    "verb": "spazieren gehen",
+    "prompt": "Meine Oma ______ jeden Tag im Park ______ .",
+    "translation": "My grandma went for a walk in the park every day.",
+    "answer": "ist | spazieren gegangen",
+    "full_sentence": "Meine Oma ist jeden Tag im Park spazieren gegangen."
+  },
+  {
+    "verb": "sterben",
+    "prompt": "sterben – ist gestorben\n\nMein Opa ______ letzten Monat ______ .",
+    "translation": "My grandfather passed away last month.",
+    "answer": "ist | gestorben",
+    "full_sentence": "Mein Opa ist letzten Monat gestorben."
+  },
+  {
+    "verb": "sterben",
+    "prompt": "Die Pflanze ist ______ , weil ich sie nicht gegossen habe.",
+    "translation": "The plant died because I didn't water it.",
+    "answer": "gestorben",
+    "full_sentence": "Die Pflanze ist gestorben, weil ich sie nicht gegossen habe."
+  },
+  {
+    "verb": "Wann ist dein alter Hund ______ ?",
+    "prompt": "Wann ist dein alter Hund gestorben?",
+    "translation": "When did your old dog pass away?",
+    "answer": "gestorben",
+    "full_sentence": "Wann ist dein alter Hund gestorben?"
+  },
+  {
+    "verb": "umgehen",
+    "prompt": "umgehen – ist umgegangen\n\nIn der Firma ist das Gerücht ______ , dass es Entlassungen gibt.",
+    "translation": "A rumor circulated at the company that there would be layoffs.",
+    "answer": "umgegangen",
+    "full_sentence": "In der Firma ist das Gerücht umgegangen, dass es Entlassungen gibt."
+  },
+  {
+    "verb": "umgehen",
+    "prompt": "Es ______ in der Stadt ______ , dass der Laden schließt.",
+    "translation": "It circulated in town that the shop is closing.",
+    "answer": "ist | umgegangen",
+    "full_sentence": "Es ist in der Stadt umgegangen, dass der Laden schließt."
+  },
+  {
+    "verb": "umgehen",
+    "prompt": "Was ______ für Gerüchte ______ ?",
+    "translation": "What rumors circulated?",
+    "answer": "sind | umgegangen",
+    "full_sentence": "Was sind für Gerüchte umgegangen?"
+  },
+  {
+    "verb": "wandern",
+    "prompt": "wandern – ist gewandert\n\nIm Herbst ______ wir drei Tage in den Alpen ______ .",
+    "translation": "In the fall we hiked in the Alps for three days.",
+    "answer": "sind | gewandert",
+    "full_sentence": "Im Herbst sind wir drei Tage in den Alpen gewandert."
+  },
+  {
+    "verb": "wandern",
+    "prompt": "Die Gruppe ______ bis zum Berggipfel ______ .",
+    "translation": "The group hiked to the mountain peak.",
+    "answer": "ist | gewandert",
+    "full_sentence": "Die Gruppe ist bis zum Berggipfel gewandert."
+  },
+  {
+    "verb": "wegfahren",
+    "prompt": "wegfahren – ist weggefahren\n\nDer Lieferwagen ______ schnell von der Straße ______ .",
+    "translation": "The delivery truck quickly drove away from the street.",
+    "answer": "ist | weggefahren",
+    "full_sentence": "Der Lieferwagen ist schnell von der Straße weggefahren."
+  },
+  {
+    "verb": "wegfahren",
+    "prompt": "Mein Kollege ______ um 18 Uhr ______ .",
+    "translation": "My colleague left at 6pm.",
+    "answer": "ist | weggefahren",
+    "full_sentence": "Mein Kollege ist um 18 Uhr weggefahren."
+  },
+  {
+    "verb": "weggehen",
+    "prompt": "weggehen – ist weggegangen\n\nSie ______ ohne Abschied ______ .",
+    "translation": "She left without saying goodbye.",
+    "answer": "ist | weggegangen",
+    "full_sentence": "Sie ist ohne Abschied weggegangen."
+  },
+  {
+    "verb": "weggehen",
+    "prompt": "Viele Gäste sind früh ______ .",
+    "translation": "Many guests left early.",
+    "answer": "weggegangen",
+    "full_sentence": "Viele Gäste sind früh weggegangen."
+  },
+  {
+    "verb": "weglaufen",
+    "prompt": "weglaufen – ist weggelaufen\n\nDer Hund ______ aus dem Garten ______ .",
+    "translation": "The dog ran away from the garden.",
+    "answer": "ist | weggelaufen",
+    "full_sentence": "Der Hund ist aus dem Garten weggelaufen."
+  },
+  {
+    "verb": "weglaufen",
+    "prompt": "Das Baby ist aus dem Zimmer ______ .",
+    "translation": "The baby ran away from the room.",
+    "answer": "weggelaufen",
+    "full_sentence": "Das Baby ist aus dem Zimmer weggelaufen."
+  },
+  {
+    "verb": "losfahren",
+    "prompt": "losfahren – ist losgefahren\n\nWir ______ um 7 Uhr früh ______ .",
+    "translation": "We set off at 7am.",
+    "answer": "sind | losgefahren",
+    "full_sentence": "Wir sind um 7 Uhr früh losgefahren."
+  },
+  {
+    "verb": "losfahren",
+    "prompt": "Wann ______ du zum Urlaub ______ ?",
+    "translation": "When did you set off for vacation?",
+    "answer": "bist | losgefahren",
+    "full_sentence": "Wann bist du zum Urlaub losgefahren?"
+  },
+  {
+    "verb": "Das Auto ______ pünktlich ______ .",
+    "prompt": "Das Auto ist pünktlich losgefahren.",
+    "translation": "The car set off on time.",
+    "answer": "ist | losgefahren",
+    "full_sentence": "Das Auto ist pünktlich losgefahren."
+  },
+  {
+    "verb": "zurückfahren",
+    "prompt": "zurückfahren – ist zurückgefahren\n\nNach dem Konzert ______ wir nach Hause ______ .",
+    "translation": "After the concert we drove back home.",
+    "answer": "sind | zurückgefahren",
+    "full_sentence": "Nach dem Konzert sind wir nach Hause zurückgefahren."
+  },
+  {
+    "verb": "zurückfahren",
+    "prompt": "Die Familie ______ am Sonntag ______ .",
+    "translation": "The family drove back on Sunday.",
+    "answer": "ist | zurückgefahren",
+    "full_sentence": "Die Familie ist am Sonntag zurückgefahren."
+  },
+  {
+    "verb": "zurückgehen",
+    "prompt": "zurückgehen – ist zurückgegangen\n\nIch ______ in die Küche für Wasser ______ .",
+    "translation": "I went back to the kitchen for water.",
+    "answer": "bin | zurückgegangen",
+    "full_sentence": "Ich bin in die Küche für Wasser zurückgegangen."
+  },
+  {
+    "verb": "zurückgehen",
+    "prompt": "Sie ______ zu ihrer alten Wohnung ______ .",
+    "translation": "She went back to her old apartment.",
+    "answer": "ist | zurückgegangen",
+    "full_sentence": "Sie ist zu ihrer alten Wohnung zurückgegangen."
+  },
+  {
+    "verb": "zurückkommen",
+    "prompt": "zurückkommen – ist zurückgekommen\n\nMeine Eltern ______ gestern aus dem Urlaub ______ .",
+    "translation": "My parents returned from vacation yesterday.",
+    "answer": "sind | zurückkommen",
+    "full_sentence": "Meine Eltern sind gestern aus dem Urlaub zurückgekommen."
+  },
+  {
+    "verb": "zurückkommen",
+    "prompt": "Wann ______ du von der Arbeit ______ ?",
+    "translation": "When did you come back from work?",
+    "answer": "bist | zurückgekommen",
+    "full_sentence": "Wann bist du von der Arbeit zurückgekommen?"
+  },
+  {
+    "verb": "zurücklaufen",
+    "prompt": "zurücklaufen – ist zurückgelaufen\n\nDas Taxi war kaputt, also ______ wir zu Fuß ______ .",
+    "translation": "The taxi broke down, so we walked back.",
+    "answer": "sind | zurückgelaufen",
+    "full_sentence": "Das Taxi war kaputt, also sind wir zu Fuß zurückgelaufen."
+  },
+  {
+    "verb": "zurücklaufen",
+    "prompt": "Wir ______ drei Kilometer durch den Wald ______ .",
+    "translation": "We walked back three kilometers through the forest.",
+    "answer": "sind | zurückgelaufen",
+    "full_sentence": "Wir sind drei Kilometer durch den Wald zurückgelaufen."
+  },
+  {
+    "verb": "in Rente gehen",
+    "prompt": "in Rente gehen – ist in Rente gegangen\n\nMein Vater ______ mit 65 ______ .",
+    "translation": "My father retired at 65.",
+    "answer": "ist | in Rente gegangen",
+    "full_sentence": "Mein Vater ist mit 65 in Rente gegangen."
+  },
+  {
+    "verb": "in Rente gehen",
+    "prompt": "Nach 40 Jahren Arbeit ______ er endlich ______ .",
+    "translation": "After 40 years of work he finally retired.",
+    "answer": "ist | in Rente gegangen",
+    "full_sentence": "Nach 40 Jahren Arbeit ist er endlich in Rente gegangen."
+  },
+  {
+    "verb": "eintreten",
+    "prompt": "eintreten – ist eingetreten\n\nDas Feuer ______ in der Küche ______ .",
+    "translation": "The fire broke out in the kitchen.",
+    "answer": "ist | ausgebrochen",
+    "full_sentence": "Das Feuer ist in der Küche ausgebrochen."
+  },
+  {
+    "verb": "eintreten",
+    "prompt": "Er ______ durch die hintere Tür ______ .",
+    "translation": "He entered through the back door.",
+    "answer": "ist | eingetreten",
+    "full_sentence": "Er ist durch die hintere Tür eingetreten."
+  },
+  {
+    "verb": "eintreten",
+    "prompt": "Das Gegenteil ist ______ .",
+    "translation": "The opposite happened.",
+    "answer": "eingetreten",
+    "full_sentence": "Das Gegenteil ist eingetreten."
+  },
+  {
+    "verb": "einziehen",
+    "prompt": "einziehen – ist eingezogen\n\nWir ______ letzte Woche in unsere neue Wohnung ______ .",
+    "translation": "We moved into our new apartment last week.",
+    "answer": "sind | eingezogen",
+    "full_sentence": "Wir sind letzte Woche in unsere neue Wohnung eingezogen."
+  },
+  {
+    "verb": "einziehen",
+    "prompt": "Wann ______ die neuen Mieter ______ ?",
+    "translation": "When did the new tenants move in?",
+    "answer": "sind | eingezogen",
+    "full_sentence": "Wann sind die neuen Mieter eingezogen?"
+  },
+  {
+    "verb": "einziehen",
+    "prompt": "Sie ______ allein in die Stadt ______ .",
+    "translation": "She moved into the city alone.",
+    "answer": "ist | eingezogen",
+    "full_sentence": "Sie ist allein in die Stadt eingezogen."
+  },
+  {
+    "verb": "auffallen (+ DAT)",
+    "prompt": "auffallen (+ DAT) – ist aufgefallen\n\nMir ist dein neues Auto ______ .",
+    "translation": "Your new car caught my eye.",
+    "answer": "aufgefallen",
+    "full_sentence": "Mir ist dein neues Auto aufgefallen."
+  },
+  {
+    "verb": "auffallen (+ DAT)",
+    "prompt": "Was ______ dir heute Morgen ______ ?",
+    "translation": "What caught your eye this morning?",
+    "answer": "ist | aufgefallen",
+    "full_sentence": "Was ist dir heute Morgen aufgefallen?"
+  },
+  {
+    "verb": "auftreten",
+    "prompt": "auftreten – ist aufgetreten\n\nDie Band ______ gestern auf dem Festival ______ .",
+    "translation": "The band performed at the festival yesterday.",
+    "answer": "ist | aufgetreten",
+    "full_sentence": "Die Band ist gestern auf dem Festival aufgetreten."
+  },
+  {
+    "verb": "auftreten",
+    "prompt": "Ein Problem ist in der Produktion ______ .",
+    "translation": "A problem occurred in production.",
+    "answer": "aufgetreten",
+    "full_sentence": "Ein Problem ist in der Produktion aufgetreten."
+  },
+  {
+    "verb": "auftreten",
+    "prompt": "Der Künstler ______ nur an einem Abend ______ .",
+    "translation": "The artist performed for only one evening.",
+    "answer": "ist | aufgetreten",
+    "full_sentence": "Der Künstler ist nur an einem Abend aufgetreten."
+  },
+  {
+    "verb": "ausfall",
+    "prompt": "ausfallen – ist ausgefallen\n\nDer Zug ______ heute ______ .",
+    "translation": "The train was cancelled today.",
+    "answer": "ist | ausgefallen",
+    "full_sentence": "Der Zug ist heute ausgefallen."
+  },
+  {
+    "verb": "ausfallen",
+    "prompt": "Leider ______ mein Deutschkurs gestern ______ .",
+    "translation": "Unfortunately my German class was cancelled yesterday.",
+    "answer": "ist | ausgefallen",
+    "full_sentence": "Leider ist mein Deutschkurs gestern ausgefallen."
+  },
+  {
+    "verb": "begegnen (+ DAT)",
+    "prompt": "begegnen (+ DAT) – ist begegnet\n\nIch bin einem alten Klassenkameraden ______ .",
+    "translation": "I ran into an old classmate.",
+    "answer": "begegnet",
+    "full_sentence": "Ich bin einem alten Klassenkameraden begegnet."
+  },
+  {
+    "verb": "begegnen (+ DAT)",
+    "prompt": "Wir ______ auf der Party einer bekannten Sängerin ______ .",
+    "translation": "We ran into a famous singer at the party.",
+    "answer": "sind | begegnet",
+    "full_sentence": "Wir sind auf der Party einer bekannten Sängerin begegnet."
+  },
+  {
+    "verb": "entstehen",
+    "prompt": "entstehen – ist entstanden\n\nAus der Diskussion ist eine Freundschaft ______ .",
+    "translation": "A friendship emerged from the discussion.",
+    "answer": "entstanden",
+    "full_sentence": "Aus der Diskussion ist eine Freundschaft entstanden."
+  },
+  {
+    "verb": "entstehen",
+    "prompt": "Durch den Sturm ______ große Schäden ______ .",
+    "translation": "Great damage arose from the storm.",
+    "answer": "sind | entstanden",
+    "full_sentence": "Durch den Sturm sind große Schäden entstanden."
+  },
+  {
+    "verb": "entstehen",
+    "prompt": "Das Projekt ______ aus einer kleinen Idee ______ .",
+    "translation": "The project arose from a small idea.",
+    "answer": "ist | entstanden",
+    "full_sentence": "Das Projekt ist aus einer kleinen Idee entstanden."
+  },
+  {
+    "verb": "eilen",
+    "prompt": "eilen – ist geeilt\n\nDer Arzt ______ zum Unfallort ______ .",
+    "translation": "The doctor rushed to the accident site.",
+    "answer": "ist | geeilt",
+    "full_sentence": "Der Arzt ist zum Unfallort geeilt."
+  },
+  {
+    "verb": "eilen",
+    "prompt": "Sie ______ ihrer Mutter zur Hilfe ______ .",
+    "translation": "She rushed to help her mother.",
+    "answer": "ist | geeilt",
+    "full_sentence": "Sie ist ihrer Mutter zur Hilfe geeilt."
+  },
+  {
+    "verb": "eilen",
+    "prompt": "Viele Menschen ______ aus dem brennenden Gebäude ______ .",
+    "translation": "Many people rushed out of the burning building.",
+    "answer": "sind | geeilt",
+    "full_sentence": "Viele Menschen sind aus dem brennenden Gebäude geeilt."
+  },
+  {
+    "verb": "einbrechen",
+    "prompt": "einbrechen – ist eingebrochen\n\nLetzte Nacht ______ jemand in mein Haus ______ .",
+    "translation": "Last night someone broke into my house.",
+    "answer": "ist | eingebrochen",
+    "full_sentence": "Letzte Nacht ist jemand in mein Haus eingebrochen."
+  },
+  {
+    "verb": "einbrechen",
+    "prompt": "In die Bank ist ein Dieb ______ .",
+    "translation": "A thief broke into the bank.",
+    "answer": "eingebrochen",
+    "full_sentence": "In die Bank ist ein Dieb eingebrochen."
+  },
+  {
+    "verb": "einfallen",
+    "prompt": "einfallen – ist eingefallen\n\nMir ist eine gute Idee ______ .",
+    "translation": "A good idea came to mind.",
+    "answer": "eingefallen",
+    "full_sentence": "Mir ist eine gute Idee eingefallen."
+  },
+  {
+    "verb": "einfallen",
+    "prompt": "Mir ist der Name nicht ______ .",
+    "translation": "I couldn't remember the name.",
+    "answer": "eingefallen",
+    "full_sentence": "Mir ist der Name nicht eingefallen."
+  },
+  {
+    "verb": "fliehen",
+    "prompt": "fliehen – ist geflohen\n\nViele Menschen ______ aus dem Kriegsgebiet ______ .",
+    "translation": "Many people fled the war zone.",
+    "answer": "sind | geflohen",
+    "full_sentence": "Viele Menschen sind aus dem Kriegsgebiet geflohen."
+  },
+  {
+    "verb": "fliehen",
+    "prompt": "Der Gefangene ______ aus dem Gefängnis ______ .",
+    "translation": "The prisoner escaped from prison.",
+    "answer": "ist | geflohen",
+    "full_sentence": "Der Gefangene ist aus dem Gefängnis geflohen."
+  },
+  {
+    "verb": "fließen",
+    "prompt": "fließen – ist geflossen\n\nDer Fluss ______ in das Meer ______ .",
+    "translation": "The river flowed into the sea.",
+    "answer": "ist | geflossen",
+    "full_sentence": "Der Fluss ist in das Meer geflossen."
+  },
+  {
+    "verb": "fließen",
+    "prompt": "Seit Jahren ______ kein Wasser in der Leitung ______ .",
+    "translation": "No water has flowed in the pipe for years.",
+    "answer": "ist | geflossen",
+    "full_sentence": "Seit Jahren ist kein Wasser in der Leitung geflossen."
+  },
+  {
+    "verb": "fließen",
+    "prompt": "Der kleine Bach ______ durch unseren Garten ______ .",
+    "translation": "The little stream flowed through our garden.",
+    "answer": "ist | geflossen",
+    "full_sentence": "Der kleine Bach ist durch unseren Garten geflossen."
+  },
+  {
+    "verb": "geschehen",
+    "prompt": "geschehen – ist geschehen\n\nWas ist gestern ______ ?",
+    "translation": "What happened yesterday?",
+    "answer": "geschehen",
+    "full_sentence": "Was ist gestern geschehen?"
+  },
+  {
+    "verb": "geschehen",
+    "prompt": "Es ist nichts Schlimmes ______ .",
+    "translation": "Nothing bad happened.",
+    "answer": "geschehen",
+    "full_sentence": "Es ist nichts Schlimmes geschehen."
+  },
+  {
+    "verb": "geschehen",
+    "prompt": "Solche Dinge ______ leider manchmal ______ .",
+    "translation": "Such things unfortunately sometimes happened.",
+    "answer": "sind | geschehen",
+    "full_sentence": "Solche Dinge sind leider manchmal geschehen."
+  },
+  {
+    "verb": "gelingen (+ DAT)",
+    "prompt": "gelingen (+ DAT) – ist gelungen\n\nMir ist der Kuchen ______ – er schmeckt perfekt!",
+    "translation": "The cake succeeded – it tastes perfect!",
+    "answer": "gelungen",
+    "full_sentence": "Mir ist der Kuchen gelungen – er schmeckt perfekt!"
+  },
+  {
+    "verb": "gelingen (+ DAT)",
+    "prompt": "Das Experiment ______ zum ersten Mal ______ .",
+    "translation": "The experiment succeeded for the first time.",
+    "answer": "ist | gelungen",
+    "full_sentence": "Das Experiment ist zum ersten Mal gelungen."
+  },
+  {
+    "verb": "herunterfahren",
+    "prompt": "herunterfahren – ist heruntergefahren\n\nEr ______ vorsichtig den Berg ______ .",
+    "translation": "He carefully drove down the mountain.",
+    "answer": "ist | heruntergefahren",
+    "full_sentence": "Er ist vorsichtig den Berg heruntergefahren."
+  },
+  {
+    "verb": "herunterfahren",
+    "prompt": "Mit dem Auto ______ wir ins Tal ______ .",
+    "translation": "We drove down into the valley by car.",
+    "answer": "sind | heruntergefahren",
+    "full_sentence": "Mit dem Auto sind wir ins Tal heruntergefahren."
+  },
+  {
+    "verb": "klettern",
+    "prompt": "klettern – ist geklettert\n\nMein Sohn ______ auf einen Baum ______ .",
+    "translation": "My son climbed a tree.",
+    "answer": "ist | geklettert",
+    "full_sentence": "Mein Sohn ist auf einen Baum geklettert."
+  },
+  {
+    "verb": "klettern",
+    "prompt": "Die Kinder ______ gern auf der Kletterwand ______ .",
+    "translation": "The kids climbed gladly on the climbing wall.",
+    "answer": "sind | geklettert",
+    "full_sentence": "Die Kinder sind gern auf der Kletterwand geklettert."
+  },
+  {
+    "verb": "liegen bleiben",
+    "prompt": "liegen bleiben – ist liegen geblieben\n\nMein Handy ______ im Taxi ______ .",
+    "translation": "My phone was left in the taxi.",
+    "answer": "ist | liegen geblieben",
+    "full_sentence": "Mein Handy ist im Taxi liegen geblieben."
+  },
+  {
+    "verb": "liegen bleiben",
+    "prompt": "Das Gepäck ist am Flughafen ______ .",
+    "translation": "The luggage was left at the airport.",
+    "answer": "liegen geblieben",
+    "full_sentence": "Das Gepäck ist am Flughafen liegen geblieben."
+  },
+  {
+    "verb": "sitzen bleiben",
+    "prompt": "sitzen bleiben – ist sitzen geblieben\n\nIch ______ auf der Bank ______ , bis alle gegangen sind.",
+    "translation": "I remained seated on the bench until everyone left.",
+    "answer": "bin | sitzen geblieben",
+    "full_sentence": "Ich bin auf der Bank sitzen geblieben, bis alle gegangen sind."
+  },
+  {
+    "verb": "sitzen bleiben",
+    "prompt": "Der Zug ist an der Station ______ .",
+    "translation": "The train remained seated (stayed stranded) at the station.",
+    "answer": "sitzen geblieben",
+    "full_sentence": "Der Zug ist an der Station sitzen geblieben."
+  },
+  {
+    "verb": "stehen bleiben",
+    "prompt": "stehen bleiben – ist stehen geblieben\n\nDer Bus ist plötzlich ______ .",
+    "translation": "The bus suddenly stopped.",
+    "answer": "stehen geblieben",
+    "full_sentence": "Der Bus ist plötzlich stehen geblieben."
+  },
+  {
+    "verb": "stehen bleiben",
+    "prompt": "Vor dem schönen Bild sind viele Menschen ______ .",
+    "translation": "Many people stopped in front of the beautiful painting.",
+    "answer": "stehen geblieben",
+    "full_sentence": "Vor dem schönen Bild sind viele Menschen stehen geblieben."
+  },
+  {
+    "verb": "verschwunden sein",
+    "prompt": "verschwunden sein – ist verschwunden gewesen\n\nWo ______ du gestern Abend ______ ?",
+    "translation": "Where had you been missing yesterday evening?",
+    "answer": "bist | verschwunden gewesen",
+    "full_sentence": "Wo bist du gestern Abend verschwunden gewesen?"
+  },
+  {
+    "verb": "verschwunden sein",
+    "prompt": "Mein Schlüssel ______ gestern stundenlang ______ .",
+    "translation": "My key was missing for hours yesterday.",
+    "answer": "ist | verschwunden gewesen",
+    "full_sentence": "Mein Schlüssel ist gestern stundenlang verschwunden gewesen."
+  },
+  {
+    "verb": "verschwinden",
+    "prompt": "verschwinden – ist verschwunden\n\nMeine Schlüssel sind ______ .",
+    "translation": "My keys have disappeared.",
+    "answer": "verschwunden",
+    "full_sentence": "Meine Schlüssel sind verschwunden."
+  },
+  {
+    "verb": "verschwinden",
+    "prompt": "Der Hund ist aus dem Garten ______ .",
+    "translation": "The dog disappeared from the garden.",
+    "answer": "verschwunden",
+    "full_sentence": "Der Hund ist aus dem Garten disappeared."
+  },
+  {
+    "verb": "verschwinden",
+    "prompt": "______ die Sonne hinter den Wolken ______ ?",
+    "translation": "Did the sun disappear behind the clouds?",
+    "answer": "Ist | verschwunden",
+    "full_sentence": "Ist die Sonne hinter den Wolken verschwunden?"
+  },
+  {
+    "verb": "vorkommen",
+    "prompt": "vorkommen – ist vorgekommen\n\nSo etwas ist mir noch nie ______ .",
+    "translation": "Something like that has never happened to me.",
+    "answer": "vorgekommen",
+    "full_sentence": "So etwas ist mir noch nie vorgekommen."
+  },
+  {
+    "verb": "vorkommen",
+    "prompt": "Solche Probleme ______ mir im Urlaub ______ .",
+    "translation": "Such problems occurred during my vacation.",
+    "answer": "sind | vorgekommen",
+    "full_sentence": "Solche Probleme sind mir im Urlaub vorgekommen."
+  },
+  {
+    "verb": "wachsen",
+    "prompt": "wachsen – ist gewachsen\n\nMeine Pflanze ______ sehr schnell ______ .",
+    "translation": "My plant grew very fast.",
+    "answer": "ist | gewachsen",
+    "full_sentence": "Meine Pflanze ist sehr schnell gewachsen."
+  },
+  {
+    "verb": "wachsen",
+    "prompt": "Das Kind ist in einem Jahr zehn Zentimeter ______ .",
+    "translation": "The child grew ten centimeters in one year.",
+    "answer": "gewachsen",
+    "full_sentence": "Das Kind ist in einem Jahr zehn Zentimeter gewachsen."
+  },
+  {
+    "verb": "weg sein",
+    "prompt": "weg sein – ist weg gewesen\n\nDer Kaffee ist schon ______ .",
+    "translation": "The coffee is already gone.",
+    "answer": "weg gewesen",
+    "full_sentence": "Der Kaffee ist schon weg gewesen."
+  },
+  {
+    "verb": "weg sein",
+    "prompt": "Gestern ______ mein Kollege schon um 15 Uhr ______ .",
+    "translation": "Yesterday my colleague was already gone at 3pm.",
+    "answer": "war | weg",
+    "full_sentence": "Gestern war mein Kollege schon um 15 Uhr weg."
+  },
+  {
+    "verb": "weg sein",
+    "prompt": "______ die Kinder schon ______ ?",
+    "translation": "Have the kids already been gone?",
+    "answer": "Sind | weg gewesen",
+    "full_sentence": "Sind die Kinder schon weg gewesen?"
+  },
+  {
+    "verb": "unterwegs sein",
+    "prompt": "unterwegs sein – ist unterwegs gewesen\n\nIch ______ gerade ______ zur Arbeit.",
+    "translation": "I was on my way to work just now.",
+    "answer": "bin | unterwegs gewesen",
+    "full_sentence": "Ich bin gerade unterwegs gewesen zur Arbeit."
+  },
+  {
+    "verb": "unterwegs sein",
+    "prompt": "______ ihr gestern lange ______ ?",
+    "translation": "Were you on the road for long yesterday?",
+    "answer": "Seid | unterwegs gewesen",
+    "full_sentence": "Seid ihr gestern lange unterwegs gewesen?"
+  }
+]
