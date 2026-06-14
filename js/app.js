@@ -173,10 +173,17 @@ function checkAnswer(userAnswer, inputMode) {
     } else {
         correctText = s.answer;
         checkingLabel = '⌨️ Checking verb only';
-        const normalizedCorrect = normalize(correctText);
-        isCorrect = normalizedUser === normalizedCorrect ||
-                    normalizedUser.includes(normalizedCorrect) ||
-                    normalizedCorrect.includes(normalizedUser);
+        // Handle "aux | participle" format (two blanks)
+        const parts = correctText.split('|').map(p => normalize(p));
+        if (parts.length === 2) {
+            const normalizedUserLower = normalizedUser;
+            isCorrect = parts.every(p => normalizedUserLower.includes(p));
+        } else {
+            const normalizedCorrect = normalize(correctText);
+            isCorrect = normalizedUser === normalizedCorrect ||
+                        normalizedUser.includes(normalizedCorrect) ||
+                        normalizedCorrect.includes(normalizedUser);
+        }
     }
 
     const resultBox = document.getElementById('result');
