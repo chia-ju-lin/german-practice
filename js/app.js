@@ -51,6 +51,9 @@ async function loadTopic(topicId) {
 
     try {
         const response = await fetch(topic.dataFile);
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
         sentences = await response.json();
         currentIndex = 0;
         score = 0;
